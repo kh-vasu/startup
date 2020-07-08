@@ -1,0 +1,152 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+.bg-img {
+  background-image: url("images/p1.png");
+  top: -0.499969482421875px;
+  margin-left: 607px;
+  width: 900px;
+  height: 550px;
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  background-size: 900px 550px;
+}
+
+.resize {
+  width: 600px;
+  margin-top: 210px;
+  margin-left: 180px;
+}
+.resize2{
+  width:520px;
+  margin-left: 290px;
+  margin-top: 110px
+}
+
+h1 {
+  color: #7A62A2;
+  font-size: 50px;
+}
+
+.text {
+  position: relative;
+  bottom: 400px;
+  left: 180px
+}
+
+.heading-one {
+  margin-bottom: 0;
+}
+
+.heading-two {
+  margin-top: 0;
+}
+
+p {
+  color: #7C7C7C;
+  font-size: 20px;
+}
+
+.myButton {
+  background-color: #44c767;
+  border-radius: 28px;
+  border: 1px solid #18ab29;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 17px;
+  padding: 16px 25px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #2f6627;
+}
+
+.myButton:hover {
+  background-color: #5cbf2a;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.anchor {
+  position: relative;
+  margin-right: 47px;
+  color: #ffffff;
+  text-decoration: none;
+  font: bold;
+  left: 370px;
+  top: 50px;
+  font-size: 15px;
+  opacity: 1;
+}
+
+.a4 {
+  border-radius: 28px;
+  border: 1px solid #ffffff;
+  padding: 10px 13px;
+
+}
+
+.anchor:hover {
+color: #f6bed6;
+}
+
+/* .header {
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+
+}
+
+.header__logo img {
+    height: 100%;
+}
+
+/* nav bar */
+/* .header__nav {
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.header__nav--links {
+    width: 70%;
+    margin: 0 auto;
+    list-style: none;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-gap: 5rem;
+    text-transform: uppercase;
+}
+
+.header__nav--links-value a {
+    text-decoration: none;
+    color: hsl(230, 29%, 20%);
+    font-weight: 700;
+    transition: all .2s ease-out;
+}
+
+.header__nav--links-value a:hover{
+    border-bottom: 2px solid hsl(230, 29%, 20%);
+}
+
+.dot {
+    border-left: 8px dotted #CDD2D6;
+    height: 8px;
+    align-self: center;
+}
+
+#last a {
+    color: hsl(231, 7%, 65%);
+}
+
+
+#last a:hover{
+    border-bottom: 2px solid hsl(231, 7%, 65%);
+} */
